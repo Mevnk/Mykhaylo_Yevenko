@@ -1,4 +1,4 @@
-def first_non_repeating_letter(s):
+def firstNonRepeatingLetter(s):
     """
     This function takes a string input, and returns the first character that is not repeated anywhere in the string.
     """

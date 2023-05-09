@@ -1,4 +1,4 @@
-def int32_to_ip(int32):
+def int32ToIp(int32):
     # Convert the integer to binary and pad it with leading zeros
     binary = bin(int32)[2:].zfill(32)
     # Split the binary string into 4 octets of 8 bits each

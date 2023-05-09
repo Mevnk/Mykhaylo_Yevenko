@@ -1,4 +1,4 @@
-def digital_root(n):
+def digitalRoot(n):
     """
     This function calculates the digital root of a non-negative integer.
     """

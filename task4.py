@@ -1,4 +1,4 @@
-def count_pairs(arr, target):
+def countPairs(arr, target):
     """
     This function counts the number of pairs in an array that add up to a target number.
     """
